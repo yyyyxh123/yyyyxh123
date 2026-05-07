@@ -1,7 +1,6 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://github-readme-stats-coral-zeta-66.vercel.app/api?username=yyyyxh123&show_icons=true&theme=tokyonight" width="55%" />
-
-  <img src="https://github-readme-stats-coral-zeta-66.vercel.app/api/top-langs/?username=yyyyxh123&layout=compact&theme=tokyonight" width="42%" />
+  <img height="180em" src="https://github-readme-stats-coral-zeta-66.vercel.app/api?username=yyyyxh123&show_icons=true&theme=tokyonight&v=3" />
+  <img height="180em" src="https://github-readme-stats-coral-zeta-66.vercel.app/api/top-langs/?username=yyyyxh123&layout=compact&theme=tokyonight&v=3" />
 </p>

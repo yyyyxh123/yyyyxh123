@@ -1,11 +1,7 @@
 # Hi there 👋
 
-I'm Xinhe Yang.
+<p align="center">
+  <img src="https://github-readme-stats-coral-zeta-66.vercel.app/api?username=yyyyxh123&show_icons=true&theme=tokyonight" width="55%" />
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-coral-zeta-66.vercel.app/api?username=yyyyxh123&show_icons=true&theme=tokyonight&v=2)
-
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats-coral-zeta-66.vercel.app/api/top-langs/?username=yyyyxh123&layout=compact&theme=tokyonight&v=2)
+  <img src="https://github-readme-stats-coral-zeta-66.vercel.app/api/top-langs/?username=yyyyxh123&layout=compact&theme=tokyonight" width="42%" />
+</p>

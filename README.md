@@ -4,7 +4,7 @@ I'm Xinhe Yang.
 
 ## GitHub Stats
 
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyyyxh123&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yyyyxh123&show_icons=true&theme=tokyonight)
 
 ## Most Used Languages
 

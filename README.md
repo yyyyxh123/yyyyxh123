@@ -4,7 +4,7 @@ I'm Xinhe Yang.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yyyyxh123&show_icons=true&theme=tokyonight)
+![Xinhe's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yyyyxh123&show_icons=true&theme=tokyonight)
 
 ## Most Used Languages
 
